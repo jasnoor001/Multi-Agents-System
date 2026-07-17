@@ -1,0 +1,42 @@
+# ============================
+# Core LangChain
+# ============================
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# ============================
+# Mistral AI
+# ============================
+langchain-mistralai
+mistralai
+
+# ============================
+# Search Tool
+# ============================
+tavily-python
+
+# ============================
+# Web Scraping
+# ============================
+beautifulsoup4
+lxml
+requests
+
+# ============================
+# Environment Variables
+# ============================
+python-dotenv
+
+# ============================
+# Utilities
+# ============================
+rich
+typing-extensions
+pydantic
+
+# ============================
+# Optional (useful for retries)
+# ============================
+tenacity
